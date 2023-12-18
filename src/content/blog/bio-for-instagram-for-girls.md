@@ -9,9 +9,7 @@ tags:
   - instagram-bios-for-girls
   - instagram-bios
   - ig-bios
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: First impressions matter. Here's how to make a powerful bio for instagram for girls along with over 100 examples to get your creative juices flowing!
 ---
 
 We all know first impressions matter, and your Instagram bio is just that - your introduction, your 'hello to the world!' So, what makes a powerful Instagram bio for girls?
