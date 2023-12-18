@@ -7,6 +7,8 @@ featured: true
 draft: false
 tags:
   - instagram-bios-for-girls
+  - instagram-bios
+  - ig-bios
 description:
   Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
