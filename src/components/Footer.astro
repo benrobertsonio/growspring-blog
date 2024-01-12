@@ -17,9 +17,7 @@ const { noMarginTop = false } = Astro.props;
     <Socials centered />
     <div class="copyright-wrapper">
       <span>Copyright &#169; {currentYear}</span>
-      <span class="separator">&nbsp;|&nbsp;</span>
-      <br />
-      <span>GrowSpring is a product by Marginalia Ventures LLC.</span>
+      <span>GrowSpring is a product by <strong>Marginalia Ventures LLC.</strong></span>
       <span>All rights reserved.</span>
     </div>
   </div>
@@ -39,7 +37,7 @@ const { noMarginTop = false } = Astro.props;
     @apply scale-125;
   }
   .copyright-wrapper {
-    @apply my-2 flex flex-col items-center whitespace-nowrap sm:flex-row;
+    @apply my-2 flex flex-col items-start;
   }
   .separator {
     @apply hidden sm:inline;
